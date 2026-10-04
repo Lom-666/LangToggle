@@ -5,11 +5,11 @@
   # LangToggle
 
 <a href="files/1.png">
-  <img src="files/1.png" alt="LangToggle Logo" width="300">
+  <img src="files/1.png" alt="LangToggle Logo" width="330">
 </a>
 
 <a href="files/2.png">
-  <img src="files/2.png" alt="LangToggle Logo" width="300">
+  <img src="files/2.png" alt="LangToggle Logo" width="330">
 </a>
 
 <br>**Лёгкая и быстрая утилита для смены раскладки и регистра выделенного текста в любой программе Windows.**
