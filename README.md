@@ -4,6 +4,10 @@
 
   # LangToggle
 
+  <img src="files/1.png" alt="LangToggle Logo" width="525" height="440">
+
+  <img src="files/2.png" alt="LangToggle Logo" width="440" height="525">
+
   **Лёгкая и быстрая утилита для смены раскладки и регистра выделенного текста в любой программе Windows.**
 
   [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/)
