@@ -4,25 +4,13 @@
 
   # LangToggle
 
-  <details>
-  <summary>
-    <img src="files/1.png" alt="LangToggle Logo" width="350">
-    <br><sub>🔍 Нажмите на картинку, чтобы развернуть/свернуть</sub>
-  </summary>
-  <br>
-  <!-- Оригинальный размер (без указания width/height) -->
-  <img src="files/1.png" alt="LangToggle Logo">
-</details>
+<a href="files/1.png">
+  <img src="files/1.png" alt="LangToggle Logo" width="350">
+</a>
 
-  <details>
-  <summary>
-    <img src="files/2.png" alt="LangToggle Logo" width="350">
-    <br><sub>🔍 Нажмите на картинку, чтобы развернуть/свернуть</sub>
-  </summary>
-  <br>
-  <!-- Оригинальный размер (без указания width/height) -->
-  <img src="files/2.png" alt="LangToggle Logo">
-</details>
+<a href="files/2.png">
+  <img src="files/2.png" alt="LangToggle Logo" width="350">
+</a>
 
   **Лёгкая и быстрая утилита для смены раскладки и регистра выделенного текста в любой программе Windows.**
 
