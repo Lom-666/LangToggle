@@ -5,14 +5,14 @@
   # LangToggle
 
 <a href="files/1.png">
-  <img src="files/1.png" alt="LangToggle Logo" width="350">
+  <img src="files/1.png" alt="LangToggle Logo" width="300">
 </a>
 
 <a href="files/2.png">
-  <img src="files/2.png" alt="LangToggle Logo" width="350">
+  <img src="files/2.png" alt="LangToggle Logo" width="300">
 </a>
 
-  <br><br>**Лёгкая и быстрая утилита для смены раскладки и регистра выделенного текста в любой программе Windows.**
+<br>**Лёгкая и быстрая утилита для смены раскладки и регистра выделенного текста в любой программе Windows.**
 
   [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/)
   [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
